@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "id": "Ashish",
+      "name": "Ashish",
+      "password": "Asish",
+      "email": "ashish@gmail.com",
+      "phone": "000000000",
+      "country": "India",
+      "address": "Umarkhed",
+      "gender": "male"
+    },
+    {
+      "id": "test ",
+      "name": "test",
+      "password": "teste",
+      "email": "test@gmail.com",
+      "phone": "9876543210",
+      "country": "India",
+      "address": "test address",
+      "gender": "male"
+    },
+    {
+      "id": "demo",
+      "name": "demo",
+      "password": "deo",
+      "email": "demo@gmail.com",
+      "phone": "952",
+      "country": "USA",
+      "address": "dsd",
+      "gender": "male"
+    },
+    {
+      "id": "Ashish",
+      "name": "Ahisho",
+      "password": "Ashish",
+      "email": "ahsjdkj@gmail.com",
+      "phone": "dd",
+      "country": "India",
+      "address": "fdf",
+      "gender": "male"
+    }
+  ]
+}
